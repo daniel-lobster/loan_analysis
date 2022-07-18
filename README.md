@@ -20,13 +20,13 @@ As a first step we divided the data into training and testing using the train_te
 
 Accuracy score = 0.9925
 
-<p align='center'> <img src='./images/original.jpg'></p>
+<p align='center'> <img src='images/original.JPG'></p>
 
 * Machine Learning Model 2 (resampled data):
 
 Balanced accuracy score: 0.9959
 
-<p align='center'> <img src='./images/resampled.jpg'></p>
+<p align='center'> <img src='images/resampled.JPG'></p>
 
 ## Summary
 
