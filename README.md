@@ -33,4 +33,3 @@ Balanced accuracy score: 0.9959
 With the resampling of the data the model became better at identifing high-risk loans. The recall for '1' increased from 93% in the original model to 100% in the resampled model. The resampled model predicts more '1's and as a consequence has more false positives. 
 
 I would recommend to use the resampled model as it has better recall while having the same precision. 
-
